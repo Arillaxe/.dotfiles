@@ -1,0 +1,9 @@
+[user]
+	email = bekirshabut66@gmail.com
+	name = Arillaxe
+[alias]
+	co = checkout
+	ci = commit
+	st = status
+	b = branch
+	hist = log --oneline --graph
